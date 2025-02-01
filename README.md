@@ -1,7 +1,7 @@
 # LIBRERIA-ESPACIOS-VECTORIALES
 # Operaciones de espacios vectoriales complejos
 En este repositorio se encontraran con estas operaciones de los espacios vectoriales complejos con la finalidad de que el usuario sepa utilizarlas y se familiarice con las mismas, y asi pueda resolver sin ningun problema ejercicios de la misma magnitud como lo son los que se encuentran en este repositorio.
-Para ello se lograran ver estas operaciones en este repositorio:
+Para ello se lograran ver estas operaciones propuestas en los documentos en este repositorio:
 1. Adición de vectores complejos.
 2. Inverso (aditivo) de un vector complejos.
 3. Multiplicación de un escalar por un vector complejo.
