@@ -35,7 +35,7 @@ En caso de no tenerlo siga los siguientes pasos:
 * Jupyter
 
 # Archivos
-Se encontraran cuatro archivos:
+Se encontraran 2 archivos:
 - ComplexIntro:
 En este archivo se hace la introduccion a los numeros complejos asi como la presentacion de librerias utiles para trabajarlos.
 - Complex_Vector_Matrix_Operations_with_NumPy.ipynb:
